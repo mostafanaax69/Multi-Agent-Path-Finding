@@ -26,4 +26,14 @@ Python3 and above
 
 # Installation & Usage
 
-* Dependencies
+* Running the code
+
+python3 [--instance <path>] [--solver <solver>] [--batch]
+
+* --batch will run all instances available in code/instances
+  
+*The following are options for --solver
+
+** CBS the original CBS algorithm
+
+
