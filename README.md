@@ -30,7 +30,7 @@ Python3 and above
 
 python3 [--instance <path>] [--solver <solver>] [--batch]
 
-* --batch will run all instances available in code/instances
+* --batch will run all instances available in /instances
   
 * The following are options for --solver
 
