@@ -34,6 +34,6 @@ python3 [--instance <path>] [--solver <solver>] [--batch]
   
 * The following are options for --solver
 
-* CBS the original CBS algorithm
+ * CBS the original CBS algorithm
 
 
