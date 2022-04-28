@@ -28,7 +28,7 @@ Python3 and above
 
 * Running the code
 
-python3 [--instance <path>] [--solver <solver>] [--batch]
+    python3 [--instance <path>] [--solver <solver>] [--batch]
 
 * --batch will run all instances available in /instances
   
