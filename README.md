@@ -39,8 +39,7 @@ Python3 and above
 
 
 
-
-# skeleton code credit:
+# Skeleton code credits:
 http://idm-lab.org/project-p/material/handout.pdf
 Wolfgang Hönig*, Jiaoyang Li, Sven Koenig — University of Southern California
 
